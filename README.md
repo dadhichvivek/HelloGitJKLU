@@ -1,3 +1,3 @@
 # HelloGitJKLU
 
-Practice done for IcubateIND practice session
+Practice done for IncubateIND practice session
